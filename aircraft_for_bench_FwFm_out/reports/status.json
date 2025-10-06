@@ -1,0 +1,11 @@
+{
+ "Problem": "aircraft_for_bench_FwFm",
+ "Script": "/opt/anaconda3/envs/MAE298_AircraftDesign/bin/aviary",
+ "Optimizer": "ScipyOptimize_SLSQP",
+ "Number of driver iterations": 11,
+ "Number of model evals": 11,
+ "Number of deriv evals": 10,
+ "Wall clock run time": "00 hours 00 minutes 02 seconds 965.4 milliseconds",
+ "Exit status": "SUCCESS",
+ "Report generation date and time": "2025-10-02 10:49:53 "
+}

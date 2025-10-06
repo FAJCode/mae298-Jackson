@@ -1,0 +1,11 @@
+{
+ "Problem": "run_custom_optimization_example",
+ "Script": "/Users/ciscoj/Desktop/School/Davis/Grad_school/Classes_Work/Aircraft_Design/mae298-Jackson/Aviary/aviary/examples/run_custom_optimization_example.py",
+ "Optimizer": "ScipyOptimize_SLSQP",
+ "Number of driver iterations": 14,
+ "Number of model evals": 14,
+ "Number of deriv evals": 13,
+ "Wall clock run time": "00 hours 00 minutes 03 seconds 400.1 milliseconds",
+ "Exit status": "SUCCESS",
+ "Report generation date and time": "2025-10-06 15:24:19 "
+}
